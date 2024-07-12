@@ -32,10 +32,16 @@
 <h3 align="left">Languages and Tools:</h3>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,java,js,nodejs" />
+    <img src="https://skillicons.dev/icons?i=git,docker,java,js,nodejs,react" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,postgres,postman,prisma,npm,mongodb" />
+    <img src="https://skillicons.dev/icons?i=nextjs,postgres,postman,prisma,npm,mongodb" />
+  </a>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,tailwind,spring,nestjs,hibernate,gradle" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,git,figma,express,angular,discord" />
   </a>
 </p>
 
