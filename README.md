@@ -32,7 +32,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,docker,java,js,nodejs,react,nextjs,postgres,postman,prisma,npm,mongodb" />
   </a>
     </p>
 
