@@ -9,7 +9,7 @@
 
 <br>
 
-<p><img align="right" src="https://i.pinimg.com/originals/48/93/2e/48932ec7c2ea468e6ea1e830868d3bff.jpg" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
 - 🌱 Currently learning android kotlin, and GraphQL
